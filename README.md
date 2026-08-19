@@ -1,8 +1,8 @@
-# Furnish
 
- <img src="images/screenshot.png" alt="project">
 
- Furnish is a simple and clean ecommerce theme built for a fictional furniture business.
+ 
+
+HOME NEST is a simple and clean ecommerce theme built for a fictional furniture business.
  
  The project is built using HTML, CSS and Javascript.
  
@@ -16,6 +16,4 @@
 
  And Individual Page For Each Product
 
- The about and contact pages are not yet built.
- 
- Link URL = https://abdulsamadayoade.github.io/Furnish
+
